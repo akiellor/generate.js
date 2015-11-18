@@ -1,5 +1,5 @@
 {
-  "name": "generator.js",
+  "name": "generate.js",
   "version": "1.0.0",
   "description": "A tool to generate javascript code.",
   "main": "generate.js",
