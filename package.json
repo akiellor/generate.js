@@ -1,0 +1,27 @@
+{
+  "name": "generator.js",
+  "version": "1.0.0",
+  "description": "A tool to generate javascript code.",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "bin": {
+    "generate": "./bin/generate",
+    "statistics": "./bin/statistics"
+  },
+  "keywords": [
+    "ast",
+    "generate"
+  ],
+  "author": "Andrew Kiellor <akiellor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "falafel": "^1.2.0",
+    "json-stringify-safe": "^5.0.1",
+    "escodegen": "^1.7.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
