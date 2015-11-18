@@ -1,6 +1,6 @@
-# Generator.js
+# Generate.js
 
-Generator.js is a tool to generator syntactically valid javascript based on statistics collected from existing javascript.
+Generate.js is a tool to generate syntactically valid javascript based on statistics collected from existing javascript.
 
 ## To try it out
 
